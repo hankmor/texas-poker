@@ -1,6 +1,6 @@
 # texas_poker
 
-A new Flutter project.
+A texas poker game for mobile app.
 
 ## Getting Started
 
